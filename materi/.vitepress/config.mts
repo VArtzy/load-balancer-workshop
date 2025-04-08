@@ -4,6 +4,6 @@ import { withSidebar } from 'vitepress-sidebar'
 export default withSidebar({
   title: "Load Balancer",
   description: "CS116",
-  base: "/load-balancer/",
+  base: "/load-balancer-workshop/",
   ignoreDeadLinks: true
 }, { documentRootPath: '/materi' })
