@@ -5,5 +5,5 @@ export default withSidebar({
   title: "Load Balancer",
   description: "CS116",
   base: "/load-balancer/",
-  ignoreDeathLinks: true
+  ignoreDeadLinks: true
 }, { documentRootPath: '/materi' })
