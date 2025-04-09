@@ -1,4 +1,4 @@
-# Load balancer
+# Load Balancer
 
 - **Introduction**
 
